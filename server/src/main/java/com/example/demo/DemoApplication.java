@@ -33,9 +33,9 @@ public class DemoApplication {
 	// when the application starts this will be run first, this is particularly good if you want to initial some things
 	// before hand eg database fields creation
 
-	@PostConstruct
+/*	@PostConstruct
 	private List<Device> init() throws ValidationException {
 		List<Device> devices = deviceService.getDevices();
 		return devices;
-	}
+	}*/
 }
