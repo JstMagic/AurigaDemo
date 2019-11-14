@@ -17,7 +17,7 @@ then run the following in terminal
 
 In the project directory, you can run:
 
-### `npm i` to install the required modules nad plugins
+### `npm i` to install the required modules and plugins
 
 ### `npm start` to start the listen server
 
